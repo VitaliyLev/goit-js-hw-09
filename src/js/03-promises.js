@@ -1,6 +1,6 @@
 import Notiflix from 'notiflix';
 
-ref = {
+const ref = {
   formEl: document.querySelector('form'),
   inputValueAllEl: document.querySelectorAll('input'),
 };
