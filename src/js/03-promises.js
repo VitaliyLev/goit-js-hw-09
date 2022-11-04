@@ -14,6 +14,7 @@ function handleSubmitCreatePromises(e) {
   const stepValue = Number(e.target.elements.step.value);
   const amountValue = Number(e.target.elements.amount.value);
 
+  
   // const {
   //   elements: { delay, step, amount },
   // } = e.currentTarget;
