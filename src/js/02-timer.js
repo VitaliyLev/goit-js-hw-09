@@ -59,6 +59,7 @@ function onBtnStartDateHandleClick() {
   
 }
 
+
 ref.btnStartTime.addEventListener('click', onBtnStartDateHandleClick);
 
 function convertMs(ms) {
